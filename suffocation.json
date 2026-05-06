@@ -2,12 +2,10 @@
   "enable_update_checker": true,
   "mod_name": "Suffocation",
   "changelog": [
-    "- ",
-    "- ",
-    "- "
+    "- reversed the block target interaction, since the render order is reversed, so the interaction feels natural."
   ],
   "latest_version": "1.1.0",
   "download_urls": [
-    "https://www.curseforge.com/minecraft/mc-mods/suffocation/files/all","https://www.curseforge.com/minecraft/mc-mods/suffocation/files/all"
+    "https://www.curseforge.com/minecraft/mc-mods/suffocation/files/all"
   ]
 }

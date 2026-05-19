@@ -2,9 +2,20 @@
   "enable_update_checker": true,
   "mod_name": "Suffocation",
   "changelog": [
-    "- since the render order is reversed, I reversed the block target interaction, so the interaction feels natural."
+    "- compatiblity with shaders Oculus and Continuity CTM textures.",
+"- now the block is more dynamic supports even more logical blocks.",
+"- now every block with menu is openable.",
+"- 80% crash reduction, some of them werent related to me.",
+"- now every block after each other without cutting any geo, so you can even use glass block as a frame.",
+"- no texture fighting issues anymore or any other block rendering related problems.",
+"- now double blocks are also placeable but both block needs to be multiblock first.",
+"- some key event mechanics, now both pop and add is CTRL + M left and right, and fixed some logic bugs.",
+"- animated blocks now animate and all collision issues are fixed.",
+"- fixed some performance, like face culling and caching the models for future chunk builds.",
+"- fixed some game functionalities, like fire, explosion, crops.",
+"- I dont remember the rest."
   ],
-  "latest_version": "1.1.1",
+  "latest_version": "2.0.0",
   "download_urls": [
     "https://www.curseforge.com/minecraft/mc-mods/suffocation/files/all"
   ]

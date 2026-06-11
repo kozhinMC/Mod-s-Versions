@@ -9,7 +9,7 @@
     "5- also fixed some filter bugs and issue like quality modifiers and unreasonable skips.",
     "6- if you find any bugs, or some item wasn't supposed to be removed, tell me if I have time I will fix it, but note I personally don't trust the debug chest, I believe sometimes it's different and it's not the same loot."
   ],
-  "latest_version": "3.0.2",
+  "latest_version": "3.1.0",
   "download_urls": [
     "https://www.curseforge.com/minecraft/mc-mods/loot-modifier/files/all"
   ]

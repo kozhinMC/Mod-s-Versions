@@ -2,20 +2,18 @@
   "enable_update_checker": true,
   "mod_name": "Suffocation",
   "changelog": [
-    "- compatiblity with shaders Oculus and Continuity CTM textures.",
-"- now the block is more dynamic supports even more logical blocks.",
-"- now every block with menu is openable.",
-"- 80% crash reduction, some of them werent related to me.",
-"- now every block after each other without cutting any geo, so you can even use glass block as a frame.",
-"- no texture fighting issues anymore or any other block rendering related problems.",
-"- now double blocks are also placeable but both block needs to be multiblock first.",
-"- some key event mechanics, now both pop and add is CTRL + M left and right, and fixed some logic bugs.",
-"- animated blocks now animate and all collision issues are fixed.",
-"- fixed some performance, like face culling and caching the models for future chunk builds.",
-"- fixed some game functionalities, like fire, explosion, crops.",
-"- I dont remember the rest."
+    "1- made the mod more compatible with Iris/Oculus and Continuity.",
+"2- now the block contains master block index, its to render that specific block equally like vanilla.",
+"3- same index is used to pop and use that specific block, by holding the added new key.",
+"4- added full jade support that show the original blocks tooltip, if they are targeted or active index if can't be targeted, with full information about the multiblock.",
+"5- another key added to reverse the block order R.",
+"6- added a new state for the multiblock, to make it phantom, with no collison, if right clicked with a phantom memberine, and a bone meal to reverse it back to normal.",
+"7- improved performance when chunk updates are concurrent during snow weather and fire events.",
+"8- fixed some bugs, like items losing nbt data when popped or added, like chests and container items, now it's safe to pop and add when a chest is contained.",
+"9- added compat with my PagableChests stack to nearby functionality.",
+"10- finally now you can put full blocks inside each other and be able to interact with them."
   ],
-  "latest_version": "2.0.0",
+  "latest_version": "3.0.0",
   "download_urls": [
     "https://www.curseforge.com/minecraft/mc-mods/suffocation/files/all"
   ]

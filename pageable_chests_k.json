@@ -1,0 +1,15 @@
+{
+  "enable_update_checker": true,
+  "mod_name": "Pageable Chests",
+  "changelog": [
+    "1- added support for Suffocation contained container blocks, for stack to nearby.",
+"2- now even more blocks that have inventory are captured.",
+"3- fixed the config issues, not syncing in the server properly.",
+    "4- if you find any problem or chest doesn't stack or paging issues or config issues please report back to the mod page at curseforge and I will try to fix it.",
+    "5- fixed the unstackable items bug, yes it was my fault I added tags to items that didnt have any, and because of that they became unique from others, now this will no longer happens, but to fix the old ones you either consume them or drop them all together in the world."
+  ],
+  "latest_version": "1.0.0",
+  "download_urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/pageable-chests/files/all"
+  ]
+}

@@ -1,12 +1,13 @@
 {
   "enable_update_checker": true,
   "mod_name": "Loot Modifier",
-  "changelog": [
+ "changelog": [
        "1- fixed some of the craftable items issues, now it better, in case if you use it.",
 "2- fixed some config bugs and file name errors, with some performance issues.",
     "3- now GLM is more reliable, less prone to issues, which is still recommended over the LootTable mode.",
     "4- reworked the item tags list inside KozhinAPI config folder, now you have more tag lists",
-    "5- also fixed some filter bugs and issue like quality modifiers and unreasonable skips."
+    "5- also fixed some filter bugs and issue like quality modifiers and unreasonable skips.",
+    "6- if you find any bugs, or some item wasn't supposed to be removed, tell me if I have time I will fix it, but note I personally don't trust the debug chest, I believe sometimes it's different and it's not the same loot."
   ],
   "latest_version": "3.0.2",
   "download_urls": [

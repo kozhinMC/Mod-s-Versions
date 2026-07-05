@@ -3,13 +3,9 @@
   "mod_name": "Server World Map",
   "changelog": [
     "- I am sorry for the late update I was working on my other mods they have more problems.",
-    "anyways I have an update for now version 1.5.0 this is half of the update I haven't finished",
-    "everything but most of it is here, so yes you may see features with missing functionalities, or",
-    "just what I wanted to add, but don't worry it works with no crash or issue, even better than the ",
-    "the last version, I will release the full 2.0.0 version sometime in the future, for the new additions",
-    "check the mod changelog or Description page."
+    "Now version 2.0.0 is done! the changelog is too long for the new features and fixes head to the description page of the mod."
   ],
-  "latest_version": "1.5.0",
+  "latest_version": "2.0.0",
   "download_urls": [
     "https://www.curseforge.com/minecraft/mc-mods/atlassync-server-world-map/files/all"
   ]

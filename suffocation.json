@@ -2,13 +2,14 @@
   "enable_update_checker": true,
   "mod_name": "Suffocation",
   "changelog": [
-    "1. fixed some blocks breaking themselves like anvil break, now it breaks naturally inside the block.",
-"2. fixed some desync issues of client, and now every block saves its NBT when popped meaning the block status is preserved.",
-"3. fixed explosion crash on chests and inventory blocks, and made explosions more natural.",
-"4. you can create multiblock inside water without removing the water block.",
-"5. added forge block placement and break rules so player cant cheat the game if a place is meant to be safe."
+    "- fixed a random client crash issue when popping a block.",
+"- added proper light information to the block so the level actually see it as a light source if, it contain a light source.",
+"- added the block as Item now you can silk touch a multiblock, updated the block name and added item tooltip.",
+"- added compatibility with cold and sweat mod, blocks now emit the same temperature they had originally.",
+"- fixed some block support issues, like snow layer or item frames, while it still can be hard sometimes for the block if its shape is complex.",
+"- added even more vanilla block behavior implementation. "
   ],
-  "latest_version": "3.1.0",
+  "latest_version": "3.2.0",
   "download_urls": [
     "https://www.curseforge.com/minecraft/mc-mods/suffocation/files/all"
   ]

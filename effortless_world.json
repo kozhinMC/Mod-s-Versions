@@ -1,0 +1,11 @@
+{
+  "enable_update_checker": true,
+  "mod_name": "Effortless World",
+ "changelog": [
+       "this is the actual version 1.0.0 of the mod, I had a list of bugs I needed to fix that I forgot to do, I fixed all of them and applied the update on v1.1.0 on curseforge."
+  ],
+  "latest_version": "1.1.0",
+  "download_urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/effortless-world/files/all"
+  ]
+}

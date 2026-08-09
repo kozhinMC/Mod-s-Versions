@@ -1,0 +1,19 @@
+
+{
+  "enable_update_checker": true,
+  "mod_name": "Relentless World",
+ "changelog": [
+      "- fixed the spawner limit issue by changing the time to spawn count.",
+"- added culling logics for gun models in mobs hands to improve performance in case you config the mod to create an army.",
+"- added even more information to the HUD, also with new toggles to customize it.",
+"- fixed the projector item, not being crafted or seen in recipe book.",
+"- enhanced the blacklist screen, to be more helpful so you can configure faster, ban mobs have certain abilities.",
+"- server config sync now requires the player to be owner level 4.",
+"- changed the mod description in mods.toml and updated the project files.",
+"- changed the mod name to Relentless World."
+],
+  "latest_version": "1.1.0",
+  "download_urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/dynamic-mobs-difficulty-apotheosis/files/all"
+  ]
+}

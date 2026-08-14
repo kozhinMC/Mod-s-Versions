@@ -1,0 +1,16 @@
+{
+  "enable_update_checker": true,
+  "mod_name": "Music Controller",
+ "changelog": [
+      " -added a whole new screen to allow you to create music playlists just like spotify with",
+ " -the existing musics in the game, you can manage and play them as you like.",
+ " -the ambient music manager now have two configs one is used when you switched to playlist mode, one is for the original, the one you already have.",
+ " -added two new key binds to play next and previous musics in the queue.",
+ " -reworked the tutorial screen to be much cleaner and friendlier.",
+   "for the full changealog head to description page."
+],
+  "latest_version": "1.3.0",
+  "download_urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/ambient-music-player-music-controller/files/all"
+  ]
+}
